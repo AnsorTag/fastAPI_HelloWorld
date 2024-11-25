@@ -9,3 +9,6 @@ async def helloWorld():
     print("hello World!")
 
     return string
+
+
+app = app
